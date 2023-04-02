@@ -1,0 +1,15 @@
+D:\csharp\NewGame\NewGame\bin\Debug\net7.0\NewGame.exe
+D:\csharp\NewGame\NewGame\bin\Debug\net7.0\NewGame.deps.json
+D:\csharp\NewGame\NewGame\bin\Debug\net7.0\NewGame.runtimeconfig.json
+D:\csharp\NewGame\NewGame\bin\Debug\net7.0\NewGame.dll
+D:\csharp\NewGame\NewGame\bin\Debug\net7.0\NewGame.pdb
+D:\csharp\NewGame\NewGame\obj\Debug\net7.0\NewGame.csproj.AssemblyReference.cache
+D:\csharp\NewGame\NewGame\obj\Debug\net7.0\NewGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\NewGame\NewGame\obj\Debug\net7.0\NewGame.AssemblyInfoInputs.cache
+D:\csharp\NewGame\NewGame\obj\Debug\net7.0\NewGame.AssemblyInfo.cs
+D:\csharp\NewGame\NewGame\obj\Debug\net7.0\NewGame.csproj.CoreCompileInputs.cache
+D:\csharp\NewGame\NewGame\obj\Debug\net7.0\NewGame.dll
+D:\csharp\NewGame\NewGame\obj\Debug\net7.0\refint\NewGame.dll
+D:\csharp\NewGame\NewGame\obj\Debug\net7.0\NewGame.pdb
+D:\csharp\NewGame\NewGame\obj\Debug\net7.0\NewGame.genruntimeconfig.cache
+D:\csharp\NewGame\NewGame\obj\Debug\net7.0\ref\NewGame.dll
